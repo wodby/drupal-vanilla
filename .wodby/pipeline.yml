@@ -14,16 +14,15 @@ jobs:
         path: ~/.composer
         key: 'composer-{{ hash "composer.lock" }}-v1'
 
-    - run: wget -qO- https://api.wodby.com/v1/get/cli | sh
     - run: wodby ci init $WODBY_BUILD_ID
-    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer install -n --no-ansi
-    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer require drush/drush
+
+    # use wodby ci run instead of wodby ci build with buildx cache because we need to scaffold web/ for nginx image.
+    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -- composer install -n --no-ansi
+    - run: wodby ci build
 
     - cache_save:
         key: 'composer-{{ hash "composer.lock" }}-v1'
         path: ~/.composer
 
-    - run: wodby ci build php
-    - run: wodby ci build nginx --from web --to /var/www/html/web
     - run: wodby ci release
     - run: wodby ci deploy
