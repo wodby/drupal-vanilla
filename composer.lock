@@ -364,16 +364,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "11.4.3",
+            "version": "11.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "209e8dd33d34f09e98e4dfb399e7afdaaa68647b"
+                "reference": "37366eee85534e018eb53eadc261d26a46a9b6f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/209e8dd33d34f09e98e4dfb399e7afdaaa68647b",
-                "reference": "209e8dd33d34f09e98e4dfb399e7afdaaa68647b",
+                "url": "https://api.github.com/repos/drupal/core/zipball/37366eee85534e018eb53eadc261d26a46a9b6f4",
+                "reference": "37366eee85534e018eb53eadc261d26a46a9b6f4",
                 "shasum": ""
             },
             "require": {
@@ -553,7 +553,7 @@
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "11.4.3",
+            "version": "11.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -598,7 +598,7 @@
         },
         {
             "name": "drupal/core-project-message",
-            "version": "11.4.3",
+            "version": "11.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -637,7 +637,7 @@
         },
         {
             "name": "drupal/core-recipe-unpack",
-            "version": "11.4.3",
+            "version": "11.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recipe-unpack.git",
@@ -679,23 +679,23 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "11.4.3",
+            "version": "11.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "fa1e8e6b93066eb2900469a56368c2242fd845be"
+                "reference": "17ea388598063ead0f9dc70cdaac8afaf2828048"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/fa1e8e6b93066eb2900469a56368c2242fd845be",
-                "reference": "fa1e8e6b93066eb2900469a56368c2242fd845be",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/17ea388598063ead0f9dc70cdaac8afaf2828048",
+                "reference": "17ea388598063ead0f9dc70cdaac8afaf2828048",
                 "shasum": ""
             },
             "require": {
                 "asm89/stack-cors": "~v2.4.0",
                 "composer/semver": "~3.4.4",
                 "doctrine/lexer": "~3.0.1",
-                "drupal/core": "11.4.3",
+                "drupal/core": "11.4.4",
                 "egulias/email-validator": "~4.0.4",
                 "justinrainbow/json-schema": "~6.8.2",
                 "marc-mabe/php-enum": "~v4.7.2",
@@ -744,7 +744,7 @@
             "type": "metapackage",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "11.4.3"
+                    "dev-main": "11.4.4"
                 }
             },
             "license": [
@@ -821,16 +821,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.14.1",
+            "version": "7.14.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "6b1d2429a2c312474c523aa9017fba0c07b5f4a0"
+                "reference": "fa88c57803501ad0770f5cddb1e60525d49da9a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/6b1d2429a2c312474c523aa9017fba0c07b5f4a0",
-                "reference": "6b1d2429a2c312474c523aa9017fba0c07b5f4a0",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/fa88c57803501ad0770f5cddb1e60525d49da9a1",
+                "reference": "fa88c57803501ad0770f5cddb1e60525d49da9a1",
                 "shasum": ""
             },
             "require": {
@@ -929,7 +929,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.14.1"
+                "source": "https://github.com/guzzle/guzzle/tree/7.14.2"
             },
             "funding": [
                 {
@@ -945,7 +945,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-13T01:32:54+00:00"
+            "time": "2026-07-14T18:15:01+00:00"
         },
         {
             "name": "guzzlehttp/promises",
