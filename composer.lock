@@ -5394,7 +5394,8 @@
                 "issues": "https://github.com/Chi-teck/drupal-code-generator/issues",
                 "source": "https://github.com/Chi-teck/drupal-code-generator/tree/4.2.0"
             },
-            "time": "2025-06-01T13:48:30+00:00"
+            "time": "2025-06-01T13:48:30+00:00",
+            "published-time": "2025-06-01T13:59:00+00:00"
         },
         {
             "name": "consolidation/annotated-command",
@@ -5450,7 +5451,8 @@
                 "issues": "https://github.com/consolidation/annotated-command/issues",
                 "source": "https://github.com/consolidation/annotated-command/tree/4.10.5"
             },
-            "time": "2026-03-29T00:50:52+00:00"
+            "time": "2026-03-29T00:50:52+00:00",
+            "published-time": "2026-03-29T00:53:08+00:00"
         },
         {
             "name": "consolidation/config",
@@ -5510,7 +5512,8 @@
                 "issues": "https://github.com/consolidation/config/issues",
                 "source": "https://github.com/consolidation/config/tree/3.2.1"
             },
-            "time": "2026-03-28T23:38:17+00:00"
+            "time": "2026-03-28T23:38:17+00:00",
+            "published-time": "2026-03-28T23:43:39+00:00"
         },
         {
             "name": "consolidation/filter-via-dot-access-data",
@@ -5560,7 +5563,8 @@
             "support": {
                 "source": "https://github.com/consolidation/filter-via-dot-access-data/tree/2.0.3"
             },
-            "time": "2025-11-14T21:01:06+00:00"
+            "time": "2025-11-14T21:01:06+00:00",
+            "published-time": "2025-11-14T21:01:41+00:00"
         },
         {
             "name": "consolidation/log",
@@ -5612,7 +5616,8 @@
                 "issues": "https://github.com/consolidation/log/issues",
                 "source": "https://github.com/consolidation/log/tree/3.1.2"
             },
-            "time": "2026-03-28T23:36:49+00:00"
+            "time": "2026-03-28T23:36:49+00:00",
+            "published-time": "2026-03-28T23:43:34+00:00"
         },
         {
             "name": "consolidation/output-formatters",
@@ -5666,7 +5671,8 @@
                 "issues": "https://github.com/consolidation/output-formatters/issues",
                 "source": "https://github.com/consolidation/output-formatters/tree/4.7.1"
             },
-            "time": "2026-03-28T23:34:39+00:00"
+            "time": "2026-03-28T23:34:39+00:00",
+            "published-time": "2026-03-28T23:43:10+00:00"
         },
         {
             "name": "consolidation/robo",
@@ -5739,7 +5745,8 @@
                 "issues": "https://github.com/consolidation/robo/issues",
                 "source": "https://github.com/consolidation/robo/tree/5.1.1"
             },
-            "time": "2025-11-14T23:30:05+00:00"
+            "time": "2025-11-14T23:30:05+00:00",
+            "published-time": "2025-11-14T23:30:25+00:00"
         },
         {
             "name": "consolidation/site-alias",
@@ -5798,7 +5805,8 @@
                 "issues": "https://github.com/consolidation/site-alias/issues",
                 "source": "https://github.com/consolidation/site-alias/tree/4.1.3"
             },
-            "time": "2026-03-28T23:34:58+00:00"
+            "time": "2026-03-28T23:34:58+00:00",
+            "published-time": "2026-03-28T23:43:18+00:00"
         },
         {
             "name": "consolidation/site-process",
@@ -5855,7 +5863,8 @@
                 "issues": "https://github.com/consolidation/site-process/issues",
                 "source": "https://github.com/consolidation/site-process/tree/6.1.0"
             },
-            "time": "2026-06-07T03:26:06+00:00"
+            "time": "2026-06-07T03:26:06+00:00",
+            "published-time": "2026-06-07T03:26:26+00:00"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -5930,7 +5939,8 @@
                 "issues": "https://github.com/dflydev/dflydev-dot-access-data/issues",
                 "source": "https://github.com/dflydev/dflydev-dot-access-data/tree/v3.0.3"
             },
-            "time": "2024-07-08T12:26:09+00:00"
+            "time": "2024-07-08T12:26:09+00:00",
+            "published-time": "2024-07-08T12:27:13+00:00"
         },
         {
             "name": "drush/drush",
@@ -6079,7 +6089,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-08T18:24:55+00:00"
+            "time": "2026-09-08T18:24:55+00:00",
+            "published-time": "2026-09-08T18:48:45+00:00"
         },
         {
             "name": "grasmash/expander",
@@ -6131,7 +6142,8 @@
                 "issues": "https://github.com/grasmash/expander/issues",
                 "source": "https://github.com/grasmash/expander/tree/3.0.1"
             },
-            "time": "2024-11-25T23:28:05+00:00"
+            "time": "2024-11-25T23:28:05+00:00",
+            "published-time": "2024-11-25T23:29:47+00:00"
         },
         {
             "name": "grasmash/yaml-cli",
@@ -6187,7 +6199,8 @@
                 "issues": "https://github.com/grasmash/yaml-cli/issues",
                 "source": "https://github.com/grasmash/yaml-cli/tree/3.2.1"
             },
-            "time": "2024-04-23T02:10:57+00:00"
+            "time": "2024-04-23T02:10:57+00:00",
+            "published-time": "2024-04-29T16:52:13+00:00"
         },
         {
             "name": "laravel/prompts",
@@ -6245,7 +6258,8 @@
             "support": {
                 "source": "https://github.com/laravel/prompts/tree/v0.3.26"
             },
-            "time": "2026-10-09T14:45:13+00:00"
+            "time": "2026-10-09T14:45:13+00:00",
+            "published-time": "2026-10-13T15:18:36+00:00"
         },
         {
             "name": "league/container",
@@ -6327,7 +6341,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-05-20T12:55:37+00:00"
+            "time": "2025-05-20T12:55:37+00:00",
+            "published-time": "2025-05-20T12:56:10+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -6384,7 +6399,8 @@
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
                 "source": "https://github.com/nikic/PHP-Parser/tree/v5.9.0"
             },
-            "time": "2026-09-13T18:51:52+00:00"
+            "time": "2026-09-13T18:51:52+00:00",
+            "published-time": "2026-09-13T18:53:16+00:00"
         },
         {
             "name": "phootwork/collection",
@@ -6439,7 +6455,8 @@
                 "issues": "https://github.com/phootwork/phootwork/issues",
                 "source": "https://github.com/phootwork/collection/tree/v3.2.3"
             },
-            "time": "2022-08-27T12:51:24+00:00"
+            "time": "2022-08-27T12:51:24+00:00",
+            "published-time": "2024-10-03T15:44:56+00:00"
         },
         {
             "name": "phootwork/lang",
@@ -6488,7 +6505,8 @@
                 "issues": "https://github.com/phootwork/phootwork/issues",
                 "source": "https://github.com/phootwork/lang/tree/v3.2.3"
             },
-            "time": "2024-10-03T13:43:19+00:00"
+            "time": "2024-10-03T13:43:19+00:00",
+            "published-time": "2024-10-03T15:45:01+00:00"
         },
         {
             "name": "phpowermove/docblock",
@@ -6540,7 +6558,8 @@
                 "issues": "https://github.com/phpowermove/docblock/issues",
                 "source": "https://github.com/phpowermove/docblock/tree/v4.0"
             },
-            "time": "2021-09-22T16:57:06+00:00"
+            "time": "2021-09-22T16:57:06+00:00",
+            "published-time": "2021-09-22T17:03:07+00:00"
         },
         {
             "name": "psy/psysh",
@@ -6619,7 +6638,8 @@
                 "issues": "https://github.com/bobthecow/psysh/issues",
                 "source": "https://github.com/bobthecow/psysh/tree/v0.12.24"
             },
-            "time": "2026-06-29T15:41:09+00:00"
+            "time": "2026-06-29T15:41:09+00:00",
+            "published-time": "2026-06-29T15:41:53+00:00"
         },
         {
             "name": "symfony/polyfill-php81",
@@ -6699,7 +6719,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-26T12:45:58+00:00"
+            "time": "2026-05-26T12:45:58+00:00",
+            "published-time": "2026-05-26T13:40:34+00:00"
         }
     ],
     "aliases": [],
@@ -6709,5 +6730,5 @@
     "prefer-lowest": false,
     "platform": {},
     "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.11.0"
 }
