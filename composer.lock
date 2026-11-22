@@ -413,16 +413,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "10.6.21",
+            "version": "10.6.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "7953509367583b3df58cd6ac559a187bc284f115"
+                "reference": "e775021854e2878f00dafe47f3090b3a1fdbf0ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/7953509367583b3df58cd6ac559a187bc284f115",
-                "reference": "7953509367583b3df58cd6ac559a187bc284f115",
+                "url": "https://api.github.com/repos/drupal/core/zipball/e775021854e2878f00dafe47f3090b3a1fdbf0ab",
+                "reference": "e775021854e2878f00dafe47f3090b3a1fdbf0ab",
                 "shasum": ""
             },
             "require": {
@@ -589,7 +589,7 @@
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "10.6.21",
+            "version": "10.6.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -634,7 +634,7 @@
         },
         {
             "name": "drupal/core-project-message",
-            "version": "10.6.21",
+            "version": "10.6.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -670,16 +670,16 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "10.6.21",
+            "version": "10.6.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "a04b201a7dfb24f14c267439425e8f7419b939c7"
+                "reference": "95a684ce2e8a0320f9295744b692c456b665c90b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/a04b201a7dfb24f14c267439425e8f7419b939c7",
-                "reference": "a04b201a7dfb24f14c267439425e8f7419b939c7",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/95a684ce2e8a0320f9295744b692c456b665c90b",
+                "reference": "95a684ce2e8a0320f9295744b692c456b665c90b",
                 "shasum": ""
             },
             "require": {
@@ -687,7 +687,7 @@
                 "composer/semver": "~3.4.4",
                 "doctrine/deprecations": "~1.1.5",
                 "doctrine/lexer": "~2.1.1",
-                "drupal/core": "10.6.21",
+                "drupal/core": "10.6.22",
                 "egulias/email-validator": "~4.0.4",
                 "masterminds/html5": "~2.10.0",
                 "mck89/peast": "~v1.17.4",
@@ -804,22 +804,22 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.16.1",
+            "version": "7.16.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "81755d989b3007ca7f88a069857553cd08e7dc2e"
+                "reference": "c88a78082757dd5a0c44191651535259fcb6e605"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/81755d989b3007ca7f88a069857553cd08e7dc2e",
-                "reference": "81755d989b3007ca7f88a069857553cd08e7dc2e",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/c88a78082757dd5a0c44191651535259fcb6e605",
+                "reference": "c88a78082757dd5a0c44191651535259fcb6e605",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "guzzlehttp/promises": "^2.6",
-                "guzzlehttp/psr7": "^2.13.2",
+                "guzzlehttp/psr7": "^2.13.4",
                 "php": "^7.2.5 || ^8.0",
                 "psr/http-client": "^1.0",
                 "symfony/deprecation-contracts": "^2.5 || ^3.0",
@@ -912,7 +912,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.16.1"
+                "source": "https://github.com/guzzle/guzzle/tree/7.16.3"
             },
             "funding": [
                 {
@@ -928,7 +928,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T21:35:21+00:00"
+            "time": "2026-11-17T16:23:09+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1016,16 +1016,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.13.2",
+            "version": "2.13.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "adee536f95101929f262b8c59e8a61472f347d58"
+                "reference": "ad5e3f872690e1151e1171de2963150fc45ea1e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/adee536f95101929f262b8c59e8a61472f347d58",
-                "reference": "adee536f95101929f262b8c59e8a61472f347d58",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/ad5e3f872690e1151e1171de2963150fc45ea1e3",
+                "reference": "ad5e3f872690e1151e1171de2963150fc45ea1e3",
                 "shasum": ""
             },
             "require": {
@@ -1115,7 +1115,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.13.2"
+                "source": "https://github.com/guzzle/psr7/tree/2.13.4"
             },
             "funding": [
                 {
@@ -1131,7 +1131,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-17T23:49:46+00:00"
+            "time": "2026-11-17T16:15:51+00:00"
         },
         {
             "name": "masterminds/html5",
@@ -4945,16 +4945,16 @@
         },
         {
             "name": "consolidation/robo",
-            "version": "5.2.3",
+            "version": "5.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/robo.git",
-                "reference": "78a541531cb613e9ce825b64ef3aa666d1e95598"
+                "reference": "2a2327b8dc6c893b76a6fc1cfe51cb785a38b7e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/robo/zipball/78a541531cb613e9ce825b64ef3aa666d1e95598",
-                "reference": "78a541531cb613e9ce825b64ef3aa666d1e95598",
+                "url": "https://api.github.com/repos/consolidation/robo/zipball/2a2327b8dc6c893b76a6fc1cfe51cb785a38b7e2",
+                "reference": "2a2327b8dc6c893b76a6fc1cfe51cb785a38b7e2",
                 "shasum": ""
             },
             "require": {
@@ -4977,11 +4977,11 @@
                 "codegyre/robo": "*"
             },
             "require-dev": {
+                "friendsofphp/php-cs-fixer": "^3.95.30",
                 "natxet/cssmin": "3.0.4",
                 "patchwork/jsqueeze": "^2",
                 "pear/archive_tar": "^1.4.4",
                 "phpunit/phpunit": "^7.5.20 || ^8 || ^9",
-                "squizlabs/php_codesniffer": "^3.6",
                 "yoast/phpunit-polyfills": "^0.2.0"
             },
             "suggest": {
@@ -5012,10 +5012,10 @@
             "description": "Modern task runner",
             "support": {
                 "issues": "https://github.com/consolidation/robo/issues",
-                "source": "https://github.com/consolidation/robo/tree/5.2.3"
+                "source": "https://github.com/consolidation/robo/tree/5.2.4"
             },
-            "time": "2026-11-12T17:53:46+00:00",
-            "published-time": "2026-11-12T17:54:12+00:00"
+            "time": "2026-11-20T19:31:06+00:00",
+            "published-time": "2026-11-20T19:31:33+00:00"
         },
         {
             "name": "consolidation/self-update",
